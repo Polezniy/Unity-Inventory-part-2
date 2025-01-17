@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7945af0cd16e2b14f85a29dddebb96ed, type: 3}
+  m_Name: Cube
+  m_EditorClassIdentifier: 
+  Name: Cube
+  Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  TypeItem: 1
+  Damage: 234234
+  HP: 12121
+  prefab: {fileID: 3096118287808142839, guid: ae3154ef1897f574fb32f17337dae509, type: 3}
